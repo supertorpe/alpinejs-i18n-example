@@ -1,0 +1,24 @@
+{
+    "en": {
+        "title": "This is the title",
+        "paragraph": {
+            "text": "This is the description"
+        },
+        "button": {
+            "lang-es": "Spanish",
+            "lang-en": "English"
+        },
+        "lang-changed": "Language changed to '{lang}'"
+    },
+    "es": {
+        "title": "Este es el título",
+        "paragraph": {
+            "text": "Esta es la descripción"
+        },
+        "button": {
+            "lang-es": "Español",
+            "lang-en": "Inglés"
+        },
+        "lang-changed": "Idioma cambiado a '{lang}'"
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --base=/alpinejs-i18n-example/",
+    "build": "tsc && vite build --base=/alpinejs-i18n-example/",
+    "serve": "vite preview --base=/alpinejs-i18n-example/"
+  },
+  "dependencies": {
+    "alpinejs": "^3.11.1",
+    "alpinejs-i18n": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/alpinejs": "^3.7.1",
+    "sass": "^1.58.3",
+    "typescript": "^4.9.5",
+    "vite": "^4.1.4"
+  }
+}
